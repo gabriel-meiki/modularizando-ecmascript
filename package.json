@@ -1,0 +1,21 @@
+{
+  "name": "ecmascript-modularizando",
+  "version": "1.0.0",
+  "description": "- Assíncrono por Padrão\r - Suportado nativamente em Navegadores\r - Sintaxe: 'import' e 'export'\r - Carregamento Estático (Análise Estática)",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-meiki/modularizando-ecmascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-meiki/modularizando-ecmascript/issues"
+  },
+  "homepage": "https://github.com/gabriel-meiki/modularizando-ecmascript#readme"
+}
